@@ -1,1 +1,1 @@
-My attempt to use Git as a project progress tracker.
+So far so good. Getting to know some of the commands at the moment.
