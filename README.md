@@ -1,1 +1,1 @@
-# GitContrib_Test
+My attempt to use Git as a project progress tracker.
