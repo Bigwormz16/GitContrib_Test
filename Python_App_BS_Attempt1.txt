@@ -11,3 +11,4 @@ Output:
 ===============================================
 Attempting to get Started, 0 prior knowledge.
 ===============================================
+Psuedocode Application Design:
