@@ -1,4 +1,13 @@
 Making a Python App that runs on Android.
-The Parameters: 
-\tRecent B/S Measurement (if avail)
-\tAmt of Glucose to be consumed
+The App: A Simple Blood Glucose calculator.
+Parameters: 
+	Recent B/S measurement
+	Amt of Glucose to be consumed
+	Amt of Carbohydrates to be consumed
+Output: 
+	+ ml/dl units increase
+	Recommended units of insulin to give
+
+===============================================
+Attempting to get Started, 0 prior knowledge.
+===============================================
