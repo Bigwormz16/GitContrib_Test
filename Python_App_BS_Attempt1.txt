@@ -1,2 +1,6 @@
 
 Making a Python App that runs on Android.
+Making a Python App that runs on Android.
+The Parameters: 
+\tRecent B/S Measurement (if avail)
+\tAmt of Glucose to be consumed
