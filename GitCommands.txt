@@ -21,3 +21,5 @@ git remove filename.txt
 git restore --staged filename.txt
 - Removes all made changes from filename.txt
 
+git push commit origin
+- Pushes changes to master repository, uploaded to github.
