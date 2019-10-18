@@ -1,1 +1,23 @@
 GITHUB COMMANDS TIPS & TRICKS
+GITHUB COMMANDS
+
+git init -> git add filename -> git commit -m Subjectline  -> git push origin master
+
+echo some text > filename.txt
+- edit a file by adding text to it.
+
+git add filename.txt  
+- Add filename.txt to the staging area.
+
+git commit -m File filename.txt updated
+- Confirm changes in staging area.
+
+git push -u origin master
+- Push updated files to master git repository
+
+git remove filename.txt 
+- Removes a file from git
+
+git restore --staged filename.txt
+- Removes all made changes from filename.txt
+
